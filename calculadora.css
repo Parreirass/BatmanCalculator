@@ -1,0 +1,48 @@
+.botoes {
+    background-color:orange;
+    color: black; 
+    font-weight: bold;
+    width: 40px;
+    height: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    border-radius: 10px;
+}
+
+.titulo {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 26px;
+    font-style:normal;
+    font-weight: bold;
+    text-shadow: 1px 1px 5px orange;
+    color: orange
+}
+
+.borda{
+    border:1px solid orange;
+    border-width: 2px;
+    border-color:orange;
+    width: 250px;
+    border-radius: 10px;
+    background-color:black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 10px 10px 50px orange;
+}
+
+.display {
+    width: 195px;
+    height: 50px;
+    font-size: larger;
+    border: 1px solid orange;
+    border-width: 2px;
+    background-color: rgb(165, 155, 155);
+    border-radius: 10px;
+}
+
+.backgroundGeral {
+    background-image: url('https://origamiami.com/wp-content/uploads/2022/06/papel-digital-batman-39.jpg');
+    background-size: cover;
+}

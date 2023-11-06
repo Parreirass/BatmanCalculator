@@ -16,4 +16,8 @@ Aplicação Web com 3 arquivos (.css, .html, .js) de uma calculadora básica com
 - "All Clear" (AC)
 - Resultado (=)
 - "I´m Batman"(morcego)
+- Memory Read (MR)
+- Memory Clear (MC)
+- Memory Add (M+)
+- Memory Subtract (M-)
 
